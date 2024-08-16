@@ -1,0 +1,17 @@
+# [SECTOR]
+# <id> <nwalls>
+# not used ^
+# 
+# note: x/y are horizontal, z is height
+# [WALL]
+# <x0> <y0> <x1> <y1> <height> <color>
+
+#[WALL]
+5.0 5.0 5.0 10.0 7 0xFFFFFFFF
+5.0 10.0 10 15.0 7 0xFFFF00FF
+10.0 15.0 15.0 15.0 7 0xFFFFFF00
+15.0 15.0 20.0 10.0 7 0xFF00FFFF
+20.0 10.0 20.0 5.0 7 0xFFFFFFFF
+20.0 5.0 15.0 0.0 7 0xFFFF00FF
+15.0 0.0 10.0 0.0 7 0xFFFFFF00
+10.0 0.0 5.0 5.0 7 0xFF00FFFF
